@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hey there! 👋
 
-My name is Alvaro, and I'm a University of Arkansas junior majoring in computer science, interested in all things in Python, AI, and software development!
+My name is Alvaro, and I'm a University of Arkansas junior majoring in Computer Science, interested in all things in Python, AI, and software development!
 
-- 🔭 I’m currently working on ...
-- 🌱 I recently built a program to  ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I recently built a psychologist-inspired chatbot that helps users go on an introspection journey, check it out [here](https://github.com/alvagarciia/eunoia).
+- 👯 I’m looking to collaborate on open source LLM projects!
+  - Connect with me on [LinkedIn](http://linkedin.com/in/alvaro-garciam) if you're interested in my assistance.
 
 <!--
 **alvagarciia/alvagarciia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
