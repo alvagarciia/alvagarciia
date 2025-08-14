@@ -2,7 +2,7 @@
 
 I’m Alvaro — a junior at the University of Arkansas studying Computer Science. I’m all about Python, AI, and building cool software that makes life easier (and more fun 😄).
 
-- 🧠 I recently built a chatbot inspired by psychologists — it’s like a digital buddy that helps you think things through. Check it out [here](https://github.com/alvagarciia/eunoia).
+- 🧠 I recently built a psychologist-inspired chatbot — it’s like a digital buddy that helps you think things through. Check it out [here](https://github.com/alvagarciia/eunoia).
 - 🤝 Always down to team up on open-source LLM projects (or anything wild and creative in the AI space).
 - 🚀 Got a crazy idea? Hit me up on [LinkedIn](http://linkedin.com/in/alvaro-garciam) — let’s make something awesome!
 
