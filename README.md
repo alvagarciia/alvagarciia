@@ -1,10 +1,10 @@
 ## Hey there! 👋
 
-My name is Alvaro, and I'm a University of Arkansas junior majoring in Computer Science, interested in all things in Python, AI, and software development!
+I’m Alvaro — a junior at the University of Arkansas studying Computer Science. I’m all about Python, AI, and building cool software that makes life easier (and more fun 😄).
 
-- 🌱 I recently built a psychologist-inspired chatbot that helps users go on an introspection journey, check it out [here](https://github.com/alvagarciia/eunoia).
-- 👯 I’m looking to collaborate on open source LLM projects!
-  - Send me a DM on [LinkedIn](http://linkedin.com/in/alvaro-garciam) if you have a crazy idea :)
+- 🧠 I recently built a chatbot inspired by psychologists — it’s like a digital buddy that helps you think things through. Check it out [here](https://github.com/alvagarciia/eunoia).
+- 🤝 Always down to team up on open-source LLM projects (or anything wild and creative in the AI space).
+- 🚀 Got a crazy idea? Hit me up on [LinkedIn](http://linkedin.com/in/alvaro-garciam) — let’s make something awesome!
 
 <!--
 **alvagarciia/alvagarciia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
