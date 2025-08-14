@@ -4,7 +4,7 @@ My name is Alvaro, and I'm a University of Arkansas junior majoring in Computer 
 
 - 🌱 I recently built a psychologist-inspired chatbot that helps users go on an introspection journey, check it out [here](https://github.com/alvagarciia/eunoia).
 - 👯 I’m looking to collaborate on open source LLM projects!
-  - Connect with me on [LinkedIn](http://linkedin.com/in/alvaro-garciam) if you're interested in my assistance.
+  - Send me a DM on [LinkedIn](http://linkedin.com/in/alvaro-garciam) if you have a crazy idea :)
 
 <!--
 **alvagarciia/alvagarciia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
