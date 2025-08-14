@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Alvaro, and I'm a University of Arkansas junior majoring in computer science, interested in all things in Python, AI, and software development!
+
+- 🔭 I’m currently working on ...
+- 🌱 I recently built a program to  ...
+- 👯 I’m looking to collaborate on ...
+
 <!--
 **alvagarciia/alvagarciia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
