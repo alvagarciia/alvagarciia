@@ -2,7 +2,7 @@
 
 I’m Alvaro — a junior at the University of Arkansas studying Computer Science. I’m all about Python, AI Agents, and building cool software that makes life easier (and more fun 😄).
 
-- 🤖 Just launched **[LearnFlow AI](https://github.com/alvagarciia/learnflow-ai)** — an autonomous study agent that turns raw lecture files into summaries, quizzes, and flashcards (built with Pydantic AI).
+- 🤖 Just launched **[LearnFlow AI](https://github.com/alvagarciia/learnflow-ai)** — an autonomous study agent that turns raw lecture files into summaries, quizzes, and flashcards.
 - 🧠 Also built **[Eunoia](https://github.com/alvagarciia/eunoia)** — a psychologist-inspired chatbot that acts as a digital buddy to help you think things through.
 - 🤝 Always down to team up on open-source agentic projects (or anything wild and creative in the AI space).
 - 🚀 Got a crazy idea? Hit me up on [LinkedIn](http://linkedin.com/in/alvaro-garciam) — let’s make something awesome!
