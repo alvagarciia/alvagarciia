@@ -1,10 +1,11 @@
 ## Hey there! 👋
 
-I’m Alvaro — a junior at the University of Arkansas studying Computer Science. I’m all about Python, AI, and building cool software that makes life easier (and more fun 😄).
+I’m Alvaro — a junior at the University of Arkansas studying Computer Science. I’m all about Python, AI Agents, and building cool software that makes life easier (and more fun 😄).
 
-- 🧠 I recently built a psychologist-inspired chatbot — it’s like a digital buddy that helps you think things through. Check it out [here](https://github.com/alvagarciia/eunoia).
-- 🤝 Always down to team up on open-source LLM projects (or anything wild and creative in the AI space).
-- 🚀 Got a crazy idea? Hit me up on [LinkedIn](http://linkedin.com/in/alvaro-garciam) — let’s make something awesome!
+- 🤖 Just launched **[LearnFlow AI](https://github.com/alvagarciia/learnflow-ai)** — an autonomous study agent that turns raw lecture files into summaries, quizzes, and flashcards (built with Pydantic AI).
+- 🧠 Also built **[Eunoia](https://github.com/alvagarciia/eunoia)** — a psychologist-inspired chatbot that acts as a digital buddy to help you think things through.
+- 🤝 Always down to team up on open-source agentic projects (or anything wild and creative in the AI space).
+- 🚀 Got a crazy idea? Hit me up on [LinkedIn](http://linkedin.com/in/alvaro-garciam) — let’s make something awesome!
 
 <!--
 **alvagarciia/alvagarciia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
